@@ -1,0 +1,19 @@
+.line {
+    background-color: #e64f4f;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#favline {
+    color: rgb(53, 0, 245);
+    font-size: 36px;
+}
+
+#cooler {
+    font-size: 24px;
+}
+
+#extraline {
+    background-color: #4fe675;
+    font-size: 24px;
+    font-weight: bolder;
+}
